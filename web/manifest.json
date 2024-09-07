@@ -1,6 +1,6 @@
 {
-    "name": "flutter_raspberry_pi_iot",
-    "short_name": "flutter_raspberry_pi_iot",
+    "name": "soda_machine",
+    "short_name": "soda_machine",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

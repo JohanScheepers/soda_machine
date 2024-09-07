@@ -45,13 +45,13 @@ static void my_application_activate(GApplication *application)
   {
     GtkHeaderBar *header_bar = GTK_HEADER_BAR(gtk_header_bar_new());
     gtk_widget_show(GTK_WIDGET(header_bar));
-    gtk_header_bar_set_title(header_bar, "flutter_raspberry_pi_iot");
+    gtk_header_bar_set_title(header_bar, "soda_machine");
     gtk_header_bar_set_show_close_button(header_bar, TRUE);
     gtk_window_set_titlebar(window, GTK_WIDGET(header_bar));
   }
   else
   {
-    gtk_window_set_title(window, "flutter_raspberry_pi_iot");
+    gtk_window_set_title(window, "soda_machine");
   }
 
   gtk_window_set_default_size(window, 800, 398);

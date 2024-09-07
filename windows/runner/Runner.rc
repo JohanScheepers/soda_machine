@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "flutter_raspberry_pi_iot" "\0"
+            VALUE "FileDescription", "soda_machinet" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "flutter_raspberry_pi_iot" "\0"
+            VALUE "InternalName", "soda_machine" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "flutter_raspberry_pi_iot.exe" "\0"
-            VALUE "ProductName", "flutter_raspberry_pi_iot" "\0"
+            VALUE "OriginalFilename", "soda_machine.exe" "\0"
+            VALUE "ProductName", "soda_machine" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

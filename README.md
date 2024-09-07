@@ -10,4 +10,4 @@ Building a soda dispenser, this is just the initial commit.
     3.Add electronics
 
 
-![app.jpg](https://github.com/JohanScheepers/soda_machine/tree/main/assets/images/pi/app.jpg)
+![app.jpg](https://github.com/JohanScheepers/soda_machine/blob/main/assets/images/pi/app.jpg)
